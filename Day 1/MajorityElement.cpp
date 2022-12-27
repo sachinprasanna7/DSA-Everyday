@@ -66,5 +66,6 @@ bool isMajority(int a[], int size, int cand)
 
 int main(){
   
+  cout<<"hi";
   return 0;
 }
