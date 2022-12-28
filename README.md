@@ -1,2 +1,2 @@
 # DSA-Everyday
-Code written everyday
+Head over the main branch!
