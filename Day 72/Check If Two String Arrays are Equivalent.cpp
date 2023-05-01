@@ -13,7 +13,6 @@ public:
         for(int i = 0 ; i < word2.size() ; i++) str2 += word2[i];
 
         return str1 == str2;
-    
     }
 };
 
